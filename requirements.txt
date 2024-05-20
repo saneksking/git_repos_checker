@@ -1,1 +1,1 @@
-githubinformer
+githubinformer==0.0.3

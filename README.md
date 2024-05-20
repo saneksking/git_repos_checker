@@ -1,8 +1,12 @@
-# Git Repos Checker
+# Git Repos Checker <sup>v0.0.1</sup>
 
 ***
 
+> A program for show open repositories on GitHub.
 
+***
+
+<img src="data/images/logo.png" alt="logo">
 
 ***
 
