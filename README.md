@@ -1,8 +1,14 @@
 # Git Repos Checker <sup>v0.0.2</sup>
 
-***
+---
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/saneksking/git_repos_checker)](https://github.com/saneksking/git_repos_checker/)
+![GitHub top language](https://img.shields.io/github/languages/top/saneksking/git_repos_checker)
+[![GitHub](https://img.shields.io/github/license/saneksking/git_repos_checker)](https://github.com/saneksking/git_repos_checker/blob/master/LICENSE)
+---
 
 **Git Repos Checker** - A program for show users open repositories on GitHub.
+
+---
 
 ## Help:
 
@@ -11,17 +17,17 @@
 
 `python -m venv venv/`
 
-***
+---
 
 ## Install requirements:
 
 `pip install -r requirements.txt`
 
-***
+---
 
 <img src="data/images/logo.png" alt="logo">
 
-***
+---
 
 ## Disclaimer of liability:
 
@@ -36,7 +42,7 @@
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-***
+---
 
 ## Copyright:
     --------------------------------------------------------
