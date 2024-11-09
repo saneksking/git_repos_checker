@@ -1,1 +1,7 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
 githubinformer==0.0.3
+idna==3.10
+outputdecorator==0.0.2
+requests==2.31.0
+urllib3==2.2.3
